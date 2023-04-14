@@ -1,67 +1,43 @@
 <div align = center>
 
-# SCPSL Translations <br>![PRs](https://badgen.net/github/open-prs/northwood-studios/SCPSL-Translations?cache=600) ![Contributors](https://img.shields.io/github/contributors-anon/northwood-studios/SCPSL-Translations?cacheSeconds=3600) ![Forks](https://badgen.net/github/forks/northwood-studios/SCPSL-Translations?cache=600) ![MergedPRs](https://badgen.net/github/merged-prs/northwood-studios/SCPSL-Translations?cache=600) ![Checks](https://badgen.net/github/checks/northwood-studios/SCPSL-Translations?cache=600) [![](https://badgen.net/discord/members/scpsl)](https://discord.com/scpsl)<br>
-This repo is used by Northwood Studios for hosting and managing translations for the game *SCP: Secret Laboratory*. 
+# SCP:SL Clean UI <br>!
+*This is a modified version of the hud/UI that removes several Hud & UI elements in SCP: Secret Laboratory*. 
 
 ***
   
 </div>
 
-### We kindly ask that contributors:
-* Do **not** submit a language that already exists.
-  * In the case where a bad/faulty translation of your chosen language already exists, we ask you to amend the current existing one, rather than adding another duplicate language.
-* Do **not** submit a made-up/joke language.
-* Do **not** remove contributers from the contributors file.
-* Only edit one language at a time
+# Information
 
-__Please follow these rules, as well as the guidelines in the Pull Request template when contributing to this repo__
-***
-# How to contribute
-*Before contributing, a GitHub account is required - you can sign up for one [here](https://github.com/join). If you wish to contribute from your desktop (i.e. using a local text editor), a Git client is required. We recommend [GitHub Desktop](https://desktop.github.com/), which provides a GUI and is easier for novice users to use. However, any Git client will work - it is ultimately a matter of personal preference. For help with GitHub Desktop, refer to [the Help section here](https://help.github.com/en/desktop). If you wish to contribute directly through GitHub, please see the relevant section below.*
+This repo contains a file that is used to replace a good portion of unnesecary Hud and UI details from the game.
+Please Note that some elements are not able to be replaced/removed, and some have been simplified as opposed to removed
+as they serve a gameplay purpouse.
 
-### Alternatively you can watch our tutorial on YouTube!
-[Click here to go to the video](https://youtu.be/4Om6-fzaOYY)
 
-***
-Translation folders are named by [Microsofts Language Codes. Click here to learn more](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
+### Please Note The Following:
 
-Steam language files are named by [SteamWorks Documentation](https://partner.steamgames.com/doc/store/localization). See the *"API language code"* list.
+- This Translation file will <span style="color:red">**Overwrite The Original File**</span>. Create a *backup* before you do this
+- If you did not make a backup and want the original file back, [Please see this link](https://github.com/northwood-studios/SCPSL-Translations)
+- This Translation file will remove **Most Non Essential UI Elements** If you are a new player this is *Not Recommended*
+- Upon a new Update Releasing, some translations *May* need to be updated. This should happen within ~1 week
 
-***
-## From local editor:   
-1. Create fork of this repository
-    * Scroll to the top of this page and click 'Fork'. Doing so will add a copy of this repo to your GitHub account.
-2. Clone the forked repository
-    * Log into your GitHub account in GitHub Desktop. On the home screen, you will see a list of your repositories. Select the forked repo, and then click `Clone <yourusername>/SCPSL-Translations` - doing so will download the repo onto your computer. If you are using Git Bash or a similar CLI client, refer to [this guide](https://help.github.com/en/articles/fork-a-repo). 
-3. Open a file and edit/add what you want to change with a text editor
-4. Once all desired changes have been made, run `EncodingNormalizer.exe` on the modified files
-    * `EncodingNormalizer.exe` is an application which ensures correct encoding and formatting of translation files. **Please use this before submitting your Pull Request.**
-    * `EncodingNormalizer.exe` only needs to be run on the files that have been modified. These files can be selected by clicking 'Choose File' and selecting the desired file(s) or directory.
-5. Commit the modified files
-   * Please include a meaningful commit describing exact changes that were made. This is helpful to us when reviewing Pull Requests and commit history.
-    * __Only__ commit changes to files you've added/edited. **Don't** commit changes to `English (default)`
-   - Usually most GUI clients, such as GitHub desktop will only commit modified files. 
-6. Push your commit(s) to GitHub
-    * When changes are committed, only the files on disk (i.e. in the *cloned* repo) are modified. By pushing these commits, these changes are also reflected in the forked repository on GitHub. This is necessary for the next step:
-7. Open a Pull Request (see below). Studio staff will review the translation.
-## From GitHub:
-1. Open a desired file and click "Edit this file".
-   - This will automatically create a fork of this repo to your account. Any changes made to files will only be reflected in the forked repo. Learn more about forking on GitHub [here](https://help.github.com/en/articles/about-forks)
-2. Make any desired changes. 
-3. Commit your changes with a meaningful message.
-   * Please include a meaningful commit message describing the exact changes that were made. This is helpful to us when reviewing Pull Requests and commit history.
-    * __Only__ commit changes to files you've edited. **Don't** commit changes to `English (default)`
-4. Open a Pull Request (see below). Studio Staff will review the translation.
-## Opening a Pull Request
-To merge your modified fork with the master, a Pull Request must be made. **Please ensure that you have committed and pushed all desired changes before opening a Pull Request.**
-1. Return to this repo and click the **New pull request** button, located at the top of the page.
-2. On the next page, click **compare across forks**.
-3. Select the base and head forks
-   * The *base* fork is the repository that you wish to merge changes into (i.e. this one!) and the *head* (or *compare*) fork is the repository that contains the said changes (i.e. your fork). Ensure that both the base and compare fields are set to **master**. 
-  * In the event that you created further forks of this repository, please refer to [this guide](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) for further guidance.
-4. Create your Pull Request.
-   * **Ensure that the 'Allow edits from maintainers' is selected.**
-   * Write a meaningful title and message for your pull request described the changes that have been made.
+# How to Install?
 
-***
-## Got any questions about contributing? Please open an issue [here](https://github.com/northwood-studios/SCPSL-Translations/issues/new).
+1. Click the ![Code](https://i.imgur.com/TpzRbP5.png)
+2. Click Download ZIP
+3. Copy The *English (default)* file to C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory\Translations
+4. Click *Replace Files*
+5. Reload your translations in game by typing **Reloadtranslations** into console (~)
+
+Congratulations, you have now succsesfully installed Clean UI!
+
+## Feedback?
+If you have any feedback or issues, please contact me through my Discord: astro.#3745
+
+###Disclaimer
+*I am in no way affiliated with Northwood or SCP: Secret Laboratory, files originally taken from [here](https://github.com/northwood-studios/SCPSL-Translations)*
+*SCP: Secret Laboratory* [Steam Page](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
+
+
+
+
