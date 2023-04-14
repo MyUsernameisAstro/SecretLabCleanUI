@@ -5,7 +5,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SCP_Secret_Laboratory_Logo.png/602px-SCP_Secret_Laboratory_Logo.png" alt="Logo" width="310" height="309">
   
 # SCP:SL Clean UI 
-*This is a modified version of the hud/UI that removes several Hud & UI elements in SCP: Secret Laboratory*. 
+*This is a modified version of the hud/UI that removes several Non-Essential elements in SCP: Secret Laboratory*. 
 
 ***
   
