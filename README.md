@@ -1,5 +1,5 @@
 <div align = center>
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/SCP_Secret_Laboratory_Logo.png/602px-SCP_Secret_Laboratory_Logo.png?20210927192426)
+![Logo](https://i.imgur.com/TpzRbP5.png)
 
 # SCP:SL Clean UI 
 *This is a modified version of the hud/UI that removes several Hud & UI elements in SCP: Secret Laboratory*. 
