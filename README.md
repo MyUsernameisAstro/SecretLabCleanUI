@@ -35,8 +35,9 @@ Congratulations, you have now succsesfully installed Clean UI!
 If you have any feedback or issues, please contact me through my Discord: astro.#3745
 
 
-##Disclaimer
+### Disclaimer
 *I am in no way affiliated with Northwood or SCP: Secret Laboratory, files originally taken from [here](https://github.com/northwood-studios/SCPSL-Translations)*<br />
+<br />
 *SCP: Secret Laboratory* [Steam Page](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
 
 
