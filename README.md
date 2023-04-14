@@ -1,6 +1,6 @@
 <div align = center>
 
-# SCP:SL Clean UI <br>!
+# SCP:SL Clean UI 
 *This is a modified version of the hud/UI that removes several Hud & UI elements in SCP: Secret Laboratory*. 
 
 ***
@@ -23,7 +23,7 @@ as they serve a gameplay purpouse.
 
 # How to Install?
 
-1. Click the ![Code](https://i.imgur.com/TpzRbP5.png)
+1. Click the **Code Button**
 2. Click Download ZIP
 3. Copy The *English (default)* file to C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory\Translations
 4. Click *Replace Files*
