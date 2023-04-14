@@ -1,0 +1,33 @@
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Recontained.
+Vaporized by the Alpha Warhead.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+Severe electrical burns.
+Oxygen deprivation resulted in a death of asphyxia.
+Severe blood loss caused by deep wounds.
+You have bled out.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+You have fallen down.
+Decayed in the Pocket Dimension.
+Melted by a highly corrosive substance.
+Sickly yellow skin and a rancid smell suggests death by poison.
+The poison has finished you.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+SCP-207 has finished you.
+You shouldn't have taken more than two!
+You've been caught by a Tesla Gate.
+Grenade
+Explosion
+096
+173
+939
+049-2
+[ammotype] .
+Fall
+Femur Breaker
+Femur Breaker
+Auto TK Death
+Vase
+Vase
+939

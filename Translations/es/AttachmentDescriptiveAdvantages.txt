@@ -1,4 +1,0 @@
-Fuente de luz
-Contador de munición
-Supresión de fogonazo
-Visión nocturna

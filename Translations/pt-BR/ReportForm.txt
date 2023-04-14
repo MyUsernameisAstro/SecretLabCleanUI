@@ -1,7 +1,0 @@
-Reportar Jogador
-Jogador:\nID do Jogador:\nDescrição:
-Cancelar
-Reportar por quebrar as regras do servidor
-Reportar por trapaça ou invasão
-REPORTANDO
-Por favor, espere...

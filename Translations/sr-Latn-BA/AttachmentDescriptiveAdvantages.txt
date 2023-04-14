@@ -1,4 +1,0 @@
-Svjetlo
-Brojač metaka
-Skrivanje dima
-Vidljivost u mraku
