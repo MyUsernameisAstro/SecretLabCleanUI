@@ -21,7 +21,6 @@ as they serve a gameplay purpouse.
 ### Please Note The Following:
 
 - This Translation file will <span style="color:red">**Overwrite The Original File**</span>. Create a *backup* before you do this
-- If you did not make a backup and want the original file back, [Please see this link](https://github.com/northwood-studios/SCPSL-Translations)
 - This Translation file will remove **Most Non Essential UI Elements** If you are a **New Player** this is *Not Recommended*
 - Upon a new Update Releasing, some translations *Might* need to be updated. This should happen within ~1 week
 
