@@ -29,7 +29,7 @@ as they serve a gameplay purpouse.
 
 1. Click the **Code Button**
 2. Click *Download ZIP*
-3. Copy The *English (default)* folder to C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory\Translations
+3. Copy The *en* folder to C:\Program Files (x86)\Steam\steamapps\common\SCP Secret Laboratory\Translations
 4. Click *Replace Files*
 5. Reload your translations in game by typing **Reloadtranslations** into console (~)
 
