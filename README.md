@@ -23,6 +23,7 @@ as they serve a gameplay purpouse.
 - This Translation file will <span style="color:red">**Overwrite The Original File**</span>. Create a *backup* before you do this
 - This Translation file will remove **Most Non Essential UI Elements** If you are a **New Player** this is *Not Recommended*
 - Upon a new Update Releasing, some translations *Might* need to be updated. This should happen within ~1 week
+- If you want to revert to the original translation files, delete the old "en" folder and type **Reloadtranslations**
 
 # How to Install?
 
