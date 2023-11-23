@@ -40,7 +40,7 @@ If you have any feedback or issues, please contact me through my Discord: **astr
 
 
 ### Disclaimer
-*I am in no way affiliated with Northwood or SCP: Secret Laboratory, files originally taken from [here](https://github.com/northwood-studios/SCPSL-Translations)*<br />
+*I am in no way affiliated with Northwood or SCP: Secret Laboratory, files previously forked from [here](https://web.archive.org/web/20220612220150/https://github.com/northwood-studios/SCPSL-Translations) (Archived Link from June 12, 2023)* <br />
 <br />
 *SCP: Secret Laboratory* [Steam Page](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
 
