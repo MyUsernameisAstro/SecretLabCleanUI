@@ -36,7 +36,7 @@ as they serve a gameplay purpouse.
 Congratulations, you have now succsesfully installed Clean UI!
 
 ## Feedback?
-If you have any feedback or issues, please contact me through my Discord: **astro.#3745**
+If you have any feedback or issues, please contact me through my Discord: **.astro__**
 
 
 ### Disclaimer
