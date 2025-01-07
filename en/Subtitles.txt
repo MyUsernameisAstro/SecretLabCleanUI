@@ -1,3 +1,6 @@
+MTF [designation] spawn
+[count] SCP subjects left
+1 SCP left
 ㅤ
 ㅤ
 ㅤ
@@ -22,6 +25,7 @@
 ㅤ
 ㅤ
 ㅤ
+
 ㅤ
 ㅤ
 ㅤ
